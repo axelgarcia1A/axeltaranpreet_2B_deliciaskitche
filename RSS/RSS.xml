@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<receptes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="RSS.xsd">
+    <recepta>
+        <autor>
+            <nom_persona>Ana Morales</nom_persona>
+            <dni>12345678Z</dni>
+        </autor>
+        <nom_recepta>Ensalada de Quinoa con Vegetales</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>200</valor>
+                    <mesura>gramos</mesura>
+                </quantitat>
+                <nom>Quinoa</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Pimiento rojo</nom>
+            </ingredient>
+        </ingredients>
+        <passos>
+            <pas>Lava la quinoa.</pas>
+            <pas>Hierve la quinoa en agua por 15 minutos.</pas>
+            <pas>Corta los vegetales en cubos pequeños.</pas>
+            <pas>Mezcla la quinoa cocida con los vegetales.</pas>
+            <pas>Agrega sal, pimienta y aceite de oliva al gusto.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <nom_recepta>Garbanzos al Curry</nom_recepta>
+        <passos>
+            <pas>Saltea cebolla y ajo en una sartén.</pas>
+            <pas>Añade los garbanzos cocidos y el curry.</pas>
+            <pas>Agrega leche de coco y cocina por 10 minutos.</pas>
+            <pas>Sirve caliente.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <nom_recepta>Tofu Marinado a la Parrilla</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>200</valor>
+                    <mesura>gramos</mesura>
+                </quantitat>
+                <nom>Tofu firme</nom>
+            </ingredient>
+        </ingredients>
+        <passos>
+            <pas>Prepara una marinada con salsa de soja, ajo y jengibre.</pas>
+            <pas>Marina el tofu en la mezcla durante 1 hora.</pas>
+            <pas>Asa el tofu a la parrilla durante 5 minutos por cada lado.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <nom_recepta>Sopa de Lentejas</nom_recepta>
+        <passos>
+            <pas>Saltea cebolla, zanahoria y apio.</pas>
+            <pas>Añade lentejas y caldo de verduras.</pas>
+            <pas>Cocina a fuego lento por 30 minutos.</pas>
+            <pas>Sirve caliente con perejil picado.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <autor>
+            <nom_persona>Laura García</nom_persona>
+            <dni>98765432X</dni>
+        </autor>
+        <nom_recepta>Hamburguesa de Garbanzos</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>300</valor>
+                    <mesura>gramos</mesura>
+                </quantitat>
+                <nom>Garbanzos cocidos</nom>
+            </ingredient>
+        </ingredients>
+        <passos>
+            <pas>Tritura los garbanzos cocidos con especias.</pas>
+            <pas>Forma hamburguesas y cocínalas en sartén.</pas>
+            <pas>Sirve con pan integral y vegetales.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <nom_recepta>Pizza de Vegetales</nom_recepta>
+        <passos>
+            <pas>Extiende la masa de pizza.</pas>
+            <pas>Unta con salsa de tomate y añade vegetales al gusto.</pas>
+            <pas>Hornea a 180°C por 15 minutos.</pas>
+            <pas>Sirve caliente.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <nom_recepta>Batido Verde Detox</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Manzana verde</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>taza</mesura>
+                </quantitat>
+                <nom>Espinacas frescas</nom>
+            </ingredient>
+        </ingredients>
+        <passos>
+            <pas>Lava y trocea espinacas, pepino y manzana.</pas>
+            <pas>Mezcla con agua en la licuadora.</pas>
+            <pas>Licúa hasta obtener una consistencia suave.</pas>
+            <pas>Sirve frío.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <nom_recepta>Crema de Calabaza</nom_recepta>
+        <passos>
+            <pas>Hierve la calabaza con cebolla y ajo.</pas>
+            <pas>Licúa los ingredientes cocidos hasta obtener una crema.</pas>
+            <pas>Añade sal y pimienta al gusto.</pas>
+            <pas>Sirve caliente.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <autor>
+            <nom_persona>Juan Pérez</nom_persona>
+            <dni>65432198W</dni>
+        </autor>
+        <nom_recepta>Arroz Integral con Verduras</nom_recepta>
+        <passos>
+            <pas>Cocina el arroz integral en agua.</pas>
+            <pas>Saltea zanahorias, calabacín y pimientos.</pas>
+            <pas>Mezcla el arroz cocido con las verduras salteadas.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <nom_recepta>Falafel al Horno</nom_recepta>
+        <passos>
+            <pas>Mezcla garbanzos triturados con especias.</pas>
+            <pas>Forma pequeñas bolitas y hornea a 180°C por 20 minutos.</pas>
+            <pas>Sirve con salsa de yogur vegano.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <autor>
+            <nom_persona>María López</nom_persona>
+            <dni>12345678A</dni>
+        </autor>
+        <nom_recepta>Guacamole Casero</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>2</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Aguacate</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Tomate</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Cebolla</nom>
+            </ingredient>
+        </ingredients>
+        <passos>
+            <pas>Pela y machaca los aguacates en un bol.</pas>
+            <pas>Agrega el tomate y la cebolla picados.</pas>
+            <pas>Añade sal y limón al gusto.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <nom_recepta>Bruschetta de Tomate</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>barra</mesura>
+                </quantitat>
+                <nom>Pan rústico</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>3</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Tomates maduros</nom>
+            </ingredient>
+        </ingredients>
+        <passos>
+            <pas>Corta el pan en rodajas y tuéstalo.</pas>
+            <pas>Pica los tomates en cubos pequeños.</pas>
+            <pas>Coloca los tomates sobre las rodajas de pan y añade sal y aceite de oliva al gusto.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <nom_recepta>Patatas Asadas con Especias</nom_recepta>
+        <passos>
+            <pas>Lava y corta las patatas en gajos.</pas>
+            <pas>Coloca las patatas en una bandeja y añade especias al gusto.</pas>
+            <pas>Hornea a 200°C por 25 minutos.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <autor>
+            <nom_persona>José Martínez</nom_persona>
+            <dni>23456789B</dni>
+        </autor>
+        <nom_recepta>Crema de Champiñones</nom_recepta>
+        <passos>
+            <pas>Saltea champiñones y cebolla en una sartén.</pas>
+            <pas>Añade caldo de verduras y cocina por 10 minutos.</pas>
+            <pas>Licúa hasta obtener una crema homogénea.</pas>
+            <pas>Sirve caliente.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <nom_recepta>Hummus Clásico</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>400</valor>
+                    <mesura>gramos</mesura>
+                </quantitat>
+                <nom>Garbanzos cocidos</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>2</valor>
+                    <mesura>cucharada</mesura>
+                </quantitat>
+                <nom>Tahini</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Limón</nom>
+            </ingredient>
+        </ingredients>
+        <passos>
+            <pas>Licúa los garbanzos con tahini, limón y ajo.</pas>
+            <pas>Añade sal y aceite de oliva al gusto.</pas>
+            <pas>Sirve con pan pita o vegetales.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <nom_recepta>Smoothie de Plátano y Espinacas</nom_recepta>
+        <passos>
+            <pas>Coloca plátano, espinacas y leche vegetal en la licuadora.</pas>
+            <pas>Licúa hasta obtener una mezcla suave.</pas>
+            <pas>Sirve frío.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <autor>
+            <nom_persona>Lucía Fernández</nom_persona>
+            <dni>34567890C</dni>
+        </autor>
+        <nom_recepta>Gazpacho Andaluz</nom_recepta>
+        <passos>
+            <pas>Licúa tomate, pepino, pimiento y ajo.</pas>
+            <pas>Añade aceite de oliva, vinagre y sal al gusto.</pas>
+            <pas>Sirve frío y decora con trozos de pepino y tomate.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <nom_recepta>Calabacines Rellenos</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>2</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Calabacines</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Tomate</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Pimiento rojo</nom>
+            </ingredient>
+        </ingredients>
+        <passos>
+            <pas>Corta los calabacines por la mitad y vacía su interior.</pas>
+            <pas>Rellena los calabacines con tomate y pimiento picados.</pas>
+            <pas>Hornea a 180°C por 20 minutos.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <nom_recepta>Pasta con Pesto de Albahaca</nom_recepta>
+        <passos>
+            <pas>Cocina la pasta según las instrucciones del paquete.</pas>
+            <pas>Licúa albahaca, piñones, ajo y aceite de oliva.</pas>
+            <pas>Mezcla la pasta con el pesto y sirve.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <nom_recepta>Brownie de Chocolate y Nueces</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>200</valor>
+                    <mesura>gramos</mesura>
+                </quantitat>
+                <nom>Chocolate negro</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>100</valor>
+                    <mesura>gramos</mesura>
+                </quantitat>
+                <nom>Nueces</nom>
+            </ingredient>
+        </ingredients>
+        <passos>
+            <pas>Funde el chocolate y mézclalo con el resto de ingredientes.</pas>
+            <pas>Vierte la mezcla en un molde y hornea a 180°C por 25 minutos.</pas>
+            <pas>Deja enfriar y corta en porciones.</pas>
+        </passos>
+    </recepta>
+    <recepta>
+        <nom_recepta>Falafel al Horno</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>400</valor>
+                    <mesura>gramos</mesura>
+                </quantitat>
+                <nom>Garbanzos cocidos</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Cebolla</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>2</valor>
+                    <mesura>dientes</mesura>
+                </quantitat>
+                <nom>Ajo</nom>
+            </ingredient>
+        </ingredients>
+        <passos>
+            <pas>Licúa los garbanzos, cebolla y ajo hasta obtener una mezcla.</pas>
+            <pas>Forma bolitas y colócalas en una bandeja.</pas>
+            <pas>Hornea a 180°C por 20 minutos.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <nom_recepta>Sopa de Lentejas y Verduras</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>250</valor>
+                    <mesura>gramos</mesura>
+                </quantitat>
+                <nom>Lentejas</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>2</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Zanahorias</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Calabacín</nom>
+            </ingredient>
+        </ingredients>
+        <passos>
+            <pas>Cocina las lentejas y las verduras en agua con sal.</pas>
+            <pas>Hierve por 20-25 minutos.</pas>
+            <pas>Sirve caliente y sazona al gusto.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <autor>
+            <nom_persona>Pedro González</nom_persona>
+            <dni>56789123D</dni>
+        </autor>
+        <nom_recepta>Ensalada de Quinoa y Aguacate</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>200</valor>
+                    <mesura>gramos</mesura>
+                </quantitat>
+                <nom>Quinoa</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Aguacate</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Tomate</nom>
+            </ingredient>
+        </ingredients>
+        <passos>
+            <pas>Cocina la quinoa y deja enfriar.</pas>
+            <pas>Agrega el aguacate y tomate cortados.</pas>
+            <pas>Adereza con aceite de oliva y sal.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <nom_recepta>Batido de Mango y Coco</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Mango</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>250</valor>
+                    <mesura>mililitros</mesura>
+                </quantitat>
+                <nom>Leche de coco</nom>
+            </ingredient>
+        </ingredients>
+        <passos>
+            <pas>Coloca el mango y la leche de coco en la licuadora.</pas>
+            <pas>Licúa hasta obtener una mezcla homogénea.</pas>
+            <pas>Sirve frío.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <autor>
+            <nom_persona>Raquel Ortega</nom_persona>
+            <dni>67891234E</dni>
+        </autor>
+        <nom_recepta>Pimientos Rellenos de Arroz</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>3</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Pimientos</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>200</valor>
+                    <mesura>gramos</mesura>
+                </quantitat>
+                <nom>Arroz</nom>
+            </ingredient>
+        </ingredients>
+        <passos>
+            <pas>Corta la parte superior de los pimientos y vacía su interior.</pas>
+            <pas>Rellena con arroz cocido y verduras al gusto.</pas>
+            <pas>Hornea a 180°C por 25 minutos.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <nom_recepta>Pasta con Salsa de Tomate y Albahaca</nom_recepta>
+        <passos>
+            <pas>Cocina la pasta según las instrucciones del paquete.</pas>
+            <pas>Prepara la salsa con tomate triturado, albahaca y ajo.</pas>
+            <pas>Mezcla la pasta con la salsa y sirve.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <nom_recepta>Crema de Calabaza</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>500</valor>
+                    <mesura>gramos</mesura>
+                </quantitat>
+                <nom>Calabaza</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>1</valor>
+                    <mesura>unidad</mesura>
+                </quantitat>
+                <nom>Cebolla</nom>
+            </ingredient>
+        </ingredients>
+        <passos>
+            <pas>Corta la calabaza y la cebolla en trozos.</pas>
+            <pas>Cocina con agua hasta que estén tiernas.</pas>
+            <pas>Licúa hasta obtener una crema y añade sal al gusto.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <autor>
+            <nom_persona>Carlos Ramírez</nom_persona>
+            <dni>78912345F</dni>
+        </autor>
+        <nom_recepta>Tofu a la Plancha con Verduras</nom_recepta>
+        <passos>
+            <pas>Corta el tofu y las verduras en tiras.</pas>
+            <pas>Asa el tofu y las verduras en la plancha con un poco de aceite.</pas>
+            <pas>Sirve caliente con salsa de soja.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <nom_recepta>Ensalada de Garbanzos y Espinacas</nom_recepta>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>200</valor>
+                    <mesura>gramos</mesura>
+                </quantitat>
+                <nom>Garbanzos cocidos</nom>
+            </ingredient>
+            <ingredient>
+                <quantitat>
+                    <valor>100</valor>
+                    <mesura>gramos</mesura>
+                </quantitat>
+                <nom>Espinacas frescas</nom>
+            </ingredient>
+        </ingredients>
+        <passos>
+            <pas>Mezcla los garbanzos y las espinacas en un bol.</pas>
+            <pas>Agrega aceite de oliva y sal.</pas>
+            <pas>Sirve frío.</pas>
+        </passos>
+    </recepta>
+
+    <recepta>
+        <nom_recepta>Crepes de Harina de Garbanzo</nom_recepta>
+        <passos>
+            <pas>Mezcla harina de garbanzo con agua hasta obtener una masa líquida.</pas>
+            <pas>Vierte en una sartén caliente y cocina ambos lados.</pas>
+            <pas>Rellena con verduras o salsas al gusto.</pas>
+        </passos>
+    </recepta>
+</receptes>
